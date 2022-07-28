@@ -1,0 +1,1 @@
+jupyter==1.0.0pandas==0.25.3numpy==1.17.4matplotlib==3.1.1seaborn==0.9.0scikit-learn==0.22.1
